@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **ReactJs, NodeJs, Docker, Jenkins, Nginx, Linux**
 
-- 📫 How to Contact me **contact.mansouriyoussef@gmail.com**
-
 - 📄 You Can use my [Resume](https://mansouriyoussef.com)
 
 - 🌱 Learning all about Web development and DevOps
