@@ -3,7 +3,7 @@
 
 - 🏢 I'm currently working at Docetis SARL
 
-- 💬 Ask me about **ReactJs, NodeJs, Docker, Jenkins, Nginx, Linux**
+- 💬 Ask me about **ReactJs, NextJs, NodeJs, NestJs, Docker, Jenkins, Nginx, Linux**
 
 - 📄 You Can use my [Resume](https://mansouriyoussef.com)
 
