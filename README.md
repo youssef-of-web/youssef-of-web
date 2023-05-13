@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **ReactJs, NextJs, NodeJs, NestJs, Docker, Jenkins, Nginx, Linux**
 
-- 📄 You Can use my [Resume](https://mansouriyoussef.com)
-
 - 🌱 Learning all about Web development and DevOps
 
 <h3 align="left">Connect with me:</h3>
