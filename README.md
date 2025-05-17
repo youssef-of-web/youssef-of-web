@@ -17,7 +17,7 @@ I'm Youssef from Tunisia<br><br>- 🔭 I’m working as Senior Full-Stack Javasc
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-of-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=youssef-of-web&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=youssef-of-web&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=youssef-of-web&icon=0&color=0)](https://visitcount.itsvg.in)
