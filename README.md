@@ -1,125 +1,100 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Youssef Mansouri</h1>
+<h3 align="center">Full-Stack Engineer • DevOps • AI Enthusiast • SaaS Builder</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3200&pause=800&color=38BDF8&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Youssef+Mansouri;Full-Stack+%E2%80%A2+DevOps+%E2%80%A2+AI+%E2%80%A2+SaaS" alt="Typing SVG" />
-
-**Scalable systems. Clean architecture. Production-ready.**
-
-*From Tunisia 🇹🇳 · Building the stack that ships*
-
-[![Profile Views](https://komarev.com/ghpvc/?username=youssef-of-web&color=38bdf8&style=flat-square&label=Profile+Views)](https://github.com/youssef-of-web)
-[![GitHub followers](https://img.shields.io/github/followers/youssef-of-web?color=38bdf8&style=flat-square&label=Followers)](https://github.com/youssef-of-web?tab=followers)
-
-[LinkedIn](https://linkedin.com/in/mansouri-youssef) · [Medium](https://medium.com/@mansouriyoussef1991) · [YouTube](https://youtube.com/@tensorcode)
-
-</div>
+<p align="center">
+I build scalable web platforms and modern SaaS products.<br/>
+Clean architecture, high performance, production-ready code.
+</p>
 
 ---
 
-<br/>
+## 🚀 About Me
 
-<table>
-<tr>
-<td width="50%">
+- 🇹🇳 From Tunisia  
+- 🔭 Working on **AI, and SaaS platforms**
+- 🧠 Learning **Artificial Intelligence & LLM Agents**
+- 💬 Ask me about **Next.js, NestJS, Docker, DevOps, System Design**
+- ⚡ Philosophy: `Code never lies. Architecture speaks.`
 
-### ⚡ About
+---
 
-- **Focus:** Microservices, AI, SaaS
-- **Learning:** LLM Agents & AI systems
-- **Ask me about:** Next.js · NestJS · Docker · System Design
-- **Philosophy:** *Code never lies. Architecture speaks.*
+## 🌐 Connect with me
 
-</td>
-<td width="50%">
+<p align="center">
+<a href="https://linkedin.com/in/mansouri-youssef">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### 🔥 Now
+<a href="https://medium.com/@mansouriyoussef1991">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
 
-- Spec-driven development
-- AI agents & automation
-- High-performance frontend
-- Microservices at scale
+<a href="https://youtube.com/@tensorcode">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+</p>
 
-</td>
-</tr>
-</table>
+---
 
-<br/>
+## 🧠 Tech Stack
 
-### 🧰 Stack
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next](https://img.shields.io/badge/NextJS-000?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![React Query](https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=reactquery)
 
-<table>
-<tr>
-<td><strong>Frontend</strong></td>
-<td>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td><strong>Backend</strong></td>
-<td>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td><strong>DevOps</strong></td>
-<td>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel" />
-</td>
-</tr>
-<tr>
-<td><strong>Tools</strong></td>
-<td>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
-<img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
-</td>
-</tr>
-</table>
+### Backend
+![Node](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
+![Nest](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
+![Mongo](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
+![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis)
 
-<br/>
+### DevOps / Cloud
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
+![GitHub Actions](https://img.shields.io/badge/GitHubActions-2671E5?style=for-the-badge&logo=githubactions)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167ff?style=for-the-badge&logo=digitalocean)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
 
-### 📊 Stats
+### Tools / Quality
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
 
-<div align="center">
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=youssef-of-web&show_icons=true&theme=nightowl&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-of-web&layout=compact&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="165" />
+## 📊 GitHub Stats
 
-</div>
+<p align="center">
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=youssef-of-web&show_icons=true&theme=tokyonight"/>
 
-<img src="https://streak-stats.demolab.com?user=youssef-of-web&theme=nightowl&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=youssef-of-web&theme=tokyonight"/>
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-of-web&layout=compact&theme=tokyonight"/>
 
-<br/>
+</p>
 
-### 🐍 Contribution
+---
 
-<div align="center">
+## 🧩 Current Focus
 
-<img src="https://raw.githubusercontent.com/youssef-of-web/youssef-of-web/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+- Spec-Driven Development
+- AI Agents & Automation
+- Microservices Architecture
+- SaaS Platforms
+- High-performance Frontend
 
-</div>
+---
 
-<br/>
+## ⭐ Motto
 
-<div align="center">
-
-**Build fast · Build clean · Build scalable**
-
-*Build like a senior.*
-
-</div>
+> Build fast.  
+> Build clean.  
+> Build scalable.  
+> Build like a senior.
