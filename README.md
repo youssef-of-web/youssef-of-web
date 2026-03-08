@@ -1,59 +1,48 @@
-<!-- ================= BANNER ================= -->
+<h1 align="center">Hi 👋, I'm Youssef Mansouri</h1>
+<h3 align="center">Full-Stack Engineer • DevOps • AI Enthusiast • SaaS Builder</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
-</p>
-
-<h1 align="center">Youssef Mansouri</h1>
-
-<p align="center">
-Full-Stack Engineer • DevOps • AI • Microservices • SaaS
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;DevOps+Engineer;Microservices+Architect;AI+Enthusiast;Next.js+%7C+NestJS+%7C+Docker;Building+Scalable+Systems" />
+I build scalable web platforms, microservices architectures, and modern SaaS products.<br/>
+Clean architecture, high performance, production-ready code.
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 - 🇹🇳 From Tunisia  
-- 💻 7+ years experience in Web Development  
-- ⚙️ Microservices / SaaS / DevOps / AI  
-- 🧠 Clean Architecture lover  
-- 🤖 Learning LLM & AI Agents  
-- ⚡ Code never lies. Architecture speaks.
+- 🔭 Working on **Microservices, AI, and SaaS platforms**
+- 🧠 Learning **Artificial Intelligence & LLM Agents**
+- 💬 Ask me about **Next.js, NestJS, Docker, DevOps, System Design**
+- ⚡ Philosophy: `Code never lies. Architecture speaks.`
 
 ---
 
-# 🌐 Social
+## 🌐 Connect with me
 
 <p align="center">
-
 <a href="https://linkedin.com/in/mansouri-youssef">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://medium.com/@mansouriyoussef1991">
-<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium"/>
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
 <a href="https://youtube.com/@tensorcode">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
-# 🧠 Tech Stack
+## 🧠 Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next](https://img.shields.io/badge/NextJS-000?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![ReactQuery](https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=reactquery)
+![React Query](https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=reactquery)
 
 ### Backend
 ![Node](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
@@ -65,50 +54,47 @@ Full-Stack Engineer • DevOps • AI • Microservices • SaaS
 ### DevOps / Cloud
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
-![GitHubActions](https://img.shields.io/badge/GitHubActions-2671E5?style=for-the-badge&logo=githubactions)
+![GitHub Actions](https://img.shields.io/badge/GitHubActions-2671E5?style=for-the-badge&logo=githubactions)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167ff?style=for-the-badge&logo=digitalocean)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
 
+### Tools / Quality
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
+
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=youssef-of-web&show_icons=true&theme=tokyonight&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=youssef-of-web&show_icons=true&theme=tokyonight"/>
 
-<img src="https://streak-stats.demolab.com?user=youssef-of-web&theme=tokyonight" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=youssef-of-web&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-of-web&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-of-web&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/youssef-of-web/youssef-of-web/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-# 🧩 Current Focus
+## 🧩 Current Focus
 
 - Spec-Driven Development
-- AI Agents
+- AI Agents & Automation
 - Microservices Architecture
 - SaaS Platforms
-- DevOps Automation
 - High-performance Frontend
 
 ---
 
-# 🏆 Motto
+## ⭐ Motto
 
-> Build fast  
-> Build clean  
-> Build scalable  
-> Think like architect
+> Build fast.  
+> Build clean.  
+> Build scalable.  
+> Build like a senior.
