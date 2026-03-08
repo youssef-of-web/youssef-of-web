@@ -68,16 +68,24 @@ Clean architecture, high performance, production-ready code.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=youssef-of-web&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=youssef-of-web&show_icons=true&theme=tokyonight&count_private=true" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=youssef-of-web&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=youssef-of-web&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-of-web&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-of-web&layout=compact&theme=tokyonight" />
 
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/youssef-of-web/youssef-of-web/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
