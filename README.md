@@ -1,6 +1,7 @@
-<!-- Banner GIF -->
+<!-- ================= BANNER ================= -->
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
 </p>
 
 <h1 align="center">Youssef Mansouri</h1>
@@ -10,23 +11,23 @@ Full-Stack Engineer • DevOps • AI • Microservices • SaaS
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;DevOps+Engineer;AI+Enthusiast;Microservices+Architect;Next.js+%7C+NestJS+%7C+Docker;Building+Scalable+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;DevOps+Engineer;Microservices+Architect;AI+Enthusiast;Next.js+%7C+NestJS+%7C+Docker;Building+Scalable+Systems" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🇹🇳 From Tunisia  
 - 💻 7+ years experience in Web Development  
-- ⚙️ Building Microservices & SaaS platforms  
-- 🤖 Learning AI / LLM / Agents  
+- ⚙️ Microservices / SaaS / DevOps / AI  
 - 🧠 Clean Architecture lover  
+- 🤖 Learning LLM & AI Agents  
 - ⚡ Code never lies. Architecture speaks.
 
 ---
 
-## 🌐 Social
+# 🌐 Social
 
 <p align="center">
 
@@ -46,12 +47,13 @@ Full-Stack Engineer • DevOps • AI • Microservices • SaaS
 
 ---
 
-## 🧠 Tech Stack
+# 🧠 Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next](https://img.shields.io/badge/NextJS-000?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![ReactQuery](https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=reactquery)
 
 ### Backend
 ![Node](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
@@ -60,53 +62,51 @@ Full-Stack Engineer • DevOps • AI • Microservices • SaaS
 ![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis)
 
-### DevOps
+### DevOps / Cloud
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
-![GitHub Actions](https://img.shields.io/badge/GitHubActions-2671E5?style=for-the-badge&logo=githubactions)
+![GitHubActions](https://img.shields.io/badge/GitHubActions-2671E5?style=for-the-badge&logo=githubactions)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
-
-### Cloud
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167ff?style=for-the-badge&logo=digitalocean)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=youssef-of-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=youssef-of-web&show_icons=true&theme=tokyonight&count_private=true" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=youssef-of-web&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=youssef-of-web&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-of-web&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-of-web&layout=compact&theme=tokyonight" />
 
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/youssef-of-web/youssef-of-web/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/youssef-of-web/youssef-of-web/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🎯 Current Focus
+# 🧩 Current Focus
 
 - Spec-Driven Development
 - AI Agents
-- Microservices
+- Microservices Architecture
 - SaaS Platforms
+- DevOps Automation
 - High-performance Frontend
-- DevOps automation
 
 ---
 
-## ⭐ Motto
+# 🏆 Motto
 
 > Build fast  
 > Build clean  
